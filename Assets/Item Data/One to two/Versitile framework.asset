@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3725526d04f8e7a4486741c191d72fba, type: 3}
+  m_Name: Versitile framework
+  m_EditorClassIdentifier: 
+  recipeItems:
+  - {fileID: 8666232813364189813, guid: bec871e9b98409840bfd018eca1a57b1, type: 3}
+  - {fileID: -635121756248645847, guid: 3cdd98ae36fed1d4681b8bfaf6640272, type: 3}
+  itemName: Versatile Framework
+  scoreValue: 7
+  difficultyTier: 4
+  isSmelted: 0
+  timeTakenToSmelt: 0
+  isCrafted: 1
+  interactionsNeededToCraft: 4
+  height: 0.26
