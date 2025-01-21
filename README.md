@@ -1,0 +1,2 @@
+Code is located in Assets >  Scripts. All files are sorted into thier own folder depending on itd usecin the game. 
+If anyone here is looking to build thier own conveyor system, check Conveyor system, inventory and item. For any explanation about the code please reach out. Making convey systems in unity is not fun :(
